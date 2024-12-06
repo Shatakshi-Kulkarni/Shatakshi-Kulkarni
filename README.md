@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Shatakshi-Kulkarni
-- 🧪 I’m a postgraduate professional in Bioinformatics with a strong background in Clinical Nutrition and Dietetics.
-- 🧬 I currently work as a Teaching Assistant at Rajiv Gandhi Institute of Information Technology & Bio-Technology, Bharati Vidyapeeth, Pune. I am responsible for teaching Bioinformatics subject to TY Biotechnology students and to assist senior professors in Sequencing Analysis subject.
+- 👋 Hi, I’m Shatakshi Kulkarni!
+- 🧬 Bioinformatics Professional with a strong foundation in Clinical Nutrition and Dietetics.
+- 👩‍💻 Currently a Bioinformatics Analyst Intern at 4baseCare, focusing on precision oncology and advancing patient outcomes.
+- 📖 Former Teaching Assistant at Rajiv Gandhi Institute of IT & Biotechnology, Bharati Vidyapeeth, Pune, teaching Bioinformatics and assisting in Sequencing Analysis courses.
+- 📈 Passionate about data-driven biological insights, AI/ML applications in healthcare, precision medicine, and genomic data analytics.
 - 📫 You can reach me at shatakshi.kulkarni@gmail.com or www.linkedin.com/in/shatakshi-kulkarni
 
 
